@@ -1,1 +1,0 @@
-# TODO-list-in-djnago
